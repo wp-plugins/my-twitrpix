@@ -1,5 +1,5 @@
 === My TwitrPix ===
-Contributors: centdev, pepijnkoning
+Contributors: centdev
 Donate link: http://twirpix.com/apps
 Tags: widget, twitter, photos, pictures
 Requires at least: 2.2

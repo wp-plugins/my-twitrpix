@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: My TwitrPix
-Version: 1.0
+Version: 1.01
 Plugin URI: http://twitrpix.com/apps
 Description: Display your recent TwitrPix photos.  Activate plugin and then drag the My TwitrPix widget into your sidebar under Appearance &raquo; <a href="widgets.php">Widgets</a>.  For additional help, visit <a href="http://twitrpix.com/apps" target="_blank">http://twitrpix.com/apps</a>.
 Author: @TwitrPix
